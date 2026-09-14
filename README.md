@@ -1,12 +1,12 @@
-🩺 Diabetes Prediction System
+🩸 Diabetes Prediction System
 
-🧠 Diabetes Prediction System is a Machine Learning application that predicts whether a patient is likely to have diabetes based on various health-related parameters.
+🧠 Diabetes Prediction System is a Machine Learning application that predicts the likelihood of diabetes based on various health-related parameters.
 
-🌳 The system uses a Random Forest Classifier to analyze patient data and generate diabetes predictions.
+🌳 The system uses a Random Forest Classifier to analyze patient data and generate diabetes risk predictions.
 
 🎯 Objective
 
-Build an interactive Machine Learning system that analyzes health-related data and helps identify potential diabetes cases.
+Build an interactive Machine Learning system that analyzes health data and helps identify potential diabetes cases.
 
 ✨ Features
 
