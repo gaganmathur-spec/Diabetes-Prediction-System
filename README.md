@@ -8,7 +8,7 @@ Analyze health-related data to identify potential diabetes cases and provide rea
 
 ✨ Features
 
-- 🌳 Random Forest Classifier
+- 🌳 Random Forest Classification
 - 🔄 Data Preprocessing & Preparation
 - 🧠 Machine Learning Model Training
 - 📊 Feature Importance Analysis
