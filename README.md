@@ -12,7 +12,7 @@ Analyze health-related data to identify potential diabetes cases and provide rea
 - 🔄 Data Preprocessing & Preparation
 - 🧠 Machine Learning Model Training
 - 📊 Feature Importance Analysis
-- 🎯 Real-Time Diabetes Prediction
+- 🎯 Real-Time Diabetes Risk Prediction
 - 🌐 Interactive Streamlit Web App
 
 🛠️ Tech Stack
