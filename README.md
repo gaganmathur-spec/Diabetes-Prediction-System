@@ -1,20 +1,21 @@
-🩺 Diabetes Prediction System
+🧠 Brain Tumor Classification using MRI
 
-A Machine Learning application that predicts the likelihood of diabetes based on various health-related parameters using a Random Forest Classifier.
+A Machine Learning application that classifies brain MRI images using HOG (Histogram of Oriented Gradients) feature extraction and a Decision Tree Classifier.
 
 🎯 Objective
 
-Analyze health-related data to identify potential diabetes cases and provide real-time risk predictions.
+To analyze brain MRI images and predict tumor categories using image processing and Machine Learning techniques.
 
-✨ Features
+✨ Key Features
 
-- 🌳 Random Forest Classification
-- 🔄 Data Preprocessing & Preparation
-- 🧠 Machine Learning Model Training
-- 📊 Feature Importance Analysis
-- 🎯 Real-Time Diabetes Risk Prediction
-- 🌐 Interactive Streamlit Web App
+- 🧠 Brain MRI Image Classification
+- 🔍 HOG (Histogram of Oriented Gradients) Feature Extraction
+- 🌳 Decision Tree Classification
+- 🧹 Image Preprocessing
+- 📊 Model Performance Evaluation
+- ⚡ Real-Time MRI Image Prediction
+- 🌐 Interactive Streamlit Web Application
 
 🛠️ Tech Stack
 
-Python • Pandas • NumPy • Scikit-learn • Streamlit
+Python • OpenCV • Scikit-learn • Streamlit
